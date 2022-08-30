@@ -1,6 +1,6 @@
 package Sample.Sample;
 /*
- * @author: Payal Chaddha
+ * @author: PayalChaddha
  */
 import java.util.concurrent.TimeUnit;
 
